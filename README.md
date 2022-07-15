@@ -1,11 +1,10 @@
+# IT Survey Analysis In Power BI
 
-IT Survey Analysis In Power BI
-
-Introduction
+## Introduction
 
 This dataset contains IT Job survey for Germany in 2018. The analysis is aimed at visualising the job positions and their salaries for an easy peep into the positions for salary expectations. The dataset contains 959 rows and 12 columns.
 
-Data Cleaning
+## Data Cleaning
 
 This entire analysis was carried out using Power BI. The dataset does not contain nulls or empty rows, the rows and columns were formatted correctly. The major cleaning that was done was the addition of a conditional column in the power query editor for easy data understanding.
 
@@ -32,7 +31,7 @@ Software engineers get the most pay of all the job roles, and machine learning e
 
 Mega-sized companies (1000+) employees pay the most, from the chart, we can conclude that salary varies between companies depending on their sizes.
 
-Conclusion
+## Conclusion
 
 We can therefore conclude that mega-sized companies pay the most of which software engineers get the highest quota to unlimited contract employees, and it's amazing to note that most employees communicate in English.
 
